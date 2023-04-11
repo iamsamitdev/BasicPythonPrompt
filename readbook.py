@@ -6,3 +6,6 @@ b1.getDetails()
 
 b2 = Book("Packt", "Python Data Science", 2000)
 b2.getDetails()
+
+b3 = Book("Wrox", "Python for Data Analysis", 3000)
+b3.getDetails()
