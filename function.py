@@ -18,8 +18,7 @@ info("Python")
 
 # สร้างฟังก์ชันแบบไม่มีการรับค่า และมีการส่งค่ากลับ
 def area(width=0, height=0, *args):
-    result = width * height
-    return result
+    return width * height
 
 
 # เรียกใช้งานฟังก์ชัน area()
