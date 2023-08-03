@@ -18,7 +18,7 @@ print(province["bkk"])
 print("--------------------")
 
 # loop dictionary
-for p in province.keys():
+for p in province:
     print(p)
 
 print("--------------------")
